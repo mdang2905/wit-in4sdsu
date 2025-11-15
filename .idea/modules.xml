@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/wit-in4sdsu.iml" filepath="$PROJECT_DIR$/.idea/wit-in4sdsu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wit_in4sdsu.iml" filepath="$PROJECT_DIR$/.idea/wit_in4sdsu.iml" />
     </modules>
   </component>
 </project>
